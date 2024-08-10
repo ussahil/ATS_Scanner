@@ -26,8 +26,12 @@ Install depenencies
   pip install -r requirements.txt
 ```
 
+
 Run the Streamlit app
 
 ```bash
   streamlit run app.py
 ```
+## Acknowledgments
+
+This project was initially inspired by [krishnaik06]. I made modifications and improvements to the original code, including fixing bugs such as jd and text injections.
