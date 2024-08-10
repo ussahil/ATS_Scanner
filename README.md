@@ -34,4 +34,4 @@ Run the Streamlit app
 ```
 ## Acknowledgments
 
-This project was initially inspired by [krishnaik06]. I made modifications and improvements to the original code, including fixing bugs such as jd and text injections.
+This project was  inspired by [krishnaik06]. I made modifications and improvements to the original code, including fixing bugs such as jd and text injections.
